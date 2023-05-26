@@ -7,5 +7,6 @@
 	color:white;
 	font-size:20px;
 	border-left-color: green;
-	border-left-thickness: 5px;
-}
+	border-left-width: 5px;
+	border-left-style:solid;
+	text-decoration:underline;
